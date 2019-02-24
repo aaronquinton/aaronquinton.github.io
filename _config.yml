@@ -15,8 +15,8 @@ baseurl:          #'/hydeout'
                   # sidebar_blog_link below.
 
 author:
-  name:           'Aaron Quinton'
-  url:            https://github.com/aaronquinton
+  name:           #'Aaron Quinton'
+  url:            #https://github.com/aaronquinton
 
 paginate:         5
 # paginate_path:    '/page:num'
