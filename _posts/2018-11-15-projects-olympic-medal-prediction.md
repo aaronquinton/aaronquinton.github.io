@@ -14,4 +14,4 @@ I completed this project with my classmate Sayanti Ghosh as part of the UBC Mast
 
 To ensure reproducibility we thoroughly documented our work on Github. Our repository for this project can be found [here.](https://github.com/UBC-MDS/DSCI_522_OlympicMedalPrediction)  
 
-We made use of `Makefile` to run our analysis via the command line. We also utilized `docker` so that the analysis can be run without installing any additional software.  
+We made use of `Makefile` to run our analysis via the command line. We also utilized `docker` so that the analysis can be run without installing any additional software. For more details check out the README on the repository linked above.  
