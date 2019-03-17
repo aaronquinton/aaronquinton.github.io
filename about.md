@@ -4,10 +4,8 @@ title: About
 sidebar_link: true
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it
-  for your own use upon downloading. Carry on!
-</p>
+<div style="float: right">
+    ![Replace this with your image](./_screenshots/headshot.png)
+</div>
 
-To make pages show up in the sidebar, add `sidebar_link: true` to the front
-matter.
+Hi there! My name is Aaron, I am currently a student at the University of British Columbia studying Data Science. 
