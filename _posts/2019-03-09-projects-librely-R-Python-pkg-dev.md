@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "librely - R and Python Package"
+title: "R and Python Package: librely"
 excerpt: "Course work in the UBC Master of Data Science program developing R and Python packages"
 categories:
   - Projects
