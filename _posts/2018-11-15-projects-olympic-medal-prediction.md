@@ -5,7 +5,7 @@ excerpt: "Course work in the UBC Master of Data Science program utilizing common
 categories:
   - Projects
 tags:
-  - MDS
+  - UBC Master of Data Science
   - workflow
 last_modified_at: 2018-12-08
 ---

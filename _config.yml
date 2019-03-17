@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            Aaron Quinton
 tagline:          'My online portfolio'
-description:      'My online portfolio with all things Data Science'
+description:      'My portfolio of projects, blogs, and other exicting things'
 url:              https://aaronquinton.github.io
 baseurl:          #'/hydeout'
                   # the optional subpath of your site, e.g. "/blog"
