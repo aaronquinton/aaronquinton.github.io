@@ -4,11 +4,7 @@ title: About
 sidebar_link: true
 ---
 
-<div style="float: right">
-    ![Replace this with your image](./_screenshots/headshot.png)
-</div>
-
-Hi there! My name is Aaron Quinton and am currently a student at the University of British Columbia studying Data Science. 
+Hi there! My name is Aaron Quinton and I am currently a student at the University of British Columbia studying Data Science. I have experience working as an engineer in the oil and gas industry as part of the Financial Advisory team at Deloitte. 
 
 ## Abbreviated CV
 
