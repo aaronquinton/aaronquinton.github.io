@@ -5,15 +5,15 @@ sidebar_link: true
 ---
 
 <div style="float: left">
-    <img style = "padding: 0 15px" src="https://raw.githubusercontent.com/aaronquinton/aaronquinton.github.io/master/_screenshots/headshot.png" alt="Image" height="260" width="290">
+    <img style = "padding: 0 20px" src="https://raw.githubusercontent.com/aaronquinton/aaronquinton.github.io/master/_screenshots/headshot.png" alt="Image" height="260" width="300">
 </div>
 
 Hi there! My name is Aaron Quinton and I am currently a student at the University of British Columbia studying Data Science. I have experience working as an engineer in the oil and gas industry as part of the Financial Advisory team at Deloitte. I love working with numbers and strive to add value and efficiencies to day to day activities and business with the help of data. I am always eager to tackle problems, learn, and teach.  
 
-
-Email |aaron.wquinton@gmail.com  
-Github |[@aaronquinton](https://github.com/aaronquinton)  
-LinkedIn |[Aaron Quinton](https://www.linkedin.com/in/aaron-quinton  -0b4819137/)
+You can contact me or visit my various online accounts through the following links:  
+Email | aaron.wquinton@gmail.com  
+Github | [@aaronquinton](https://github.com/aaronquinton)  
+LinkedIn | [Aaron Quinton](https://www.linkedin.com/in/aaron-quinton  -0b4819137/)
 
 <br>
 
