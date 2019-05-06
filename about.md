@@ -4,13 +4,15 @@ title: About
 sidebar_link: true
 ---
 
-Hi there! My name is Aaron Quinton and I am currently a student at the University of British Columbia studying Data Science. I have experience working as an engineer in the oil and gas industry as part of the Financial Advisory team at Deloitte. I love working with numbers and strive to add value and efficiencies to day to day activities and business with the help of data. I am always eager to listen, learn, and teach.  
+<div style="float: left">
+    <img style="padding: 0 15px" src="./_screenshots/headshot.png" alt="Image" height="135" width="165">
+</div>
 
-Email | aaron.wquinton@gmail.com
-Github | [@aaronquinton](https://github.com/aaronquinton)
-LinkedIn | [Aaron Quinton](https://www.linkedin.com/in/aaron-quinton-0b4819137/)
+Hi there! My name is Aaron Quinton and I am currently a student at the University of British Columbia studying Data Science. I have experience working as an engineer in the oil and gas industry as part of the Financial Advisory team at Deloitte. I love working with numbers and strive to add value and efficiencies to day to day activities and business with the help of data. I am always eager to tackle problems, learn, and teach.  
 
-<br />  
+<center>Email | aaron.wquinton@gmail.com  
+Github | [@aaronquinton](https://github.com/aaronquinton)  
+LinkedIn | [Aaron Quinton](https://www.linkedin.com/in/aaron-quinton  -0b4819137/) </center>
 
 
 ## Abbreviated CV
@@ -27,7 +29,7 @@ University of Calgary
 ### Employment
 
 University of British Columbia
-- Teaching Assistant - Intro to Data Science, January 2019 - present
+- Graduate Teaching Assistant - Intro to Data Science, January 2019 - May 2019
 
 Deloitte
 - Senior Associate - Evaluation Engineer in training (EIT), September 2017 - August 2018
