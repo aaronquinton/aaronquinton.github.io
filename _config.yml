@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            AQ
 tagline:          'My online portfolio'
-description:      'My portfolio of personal projects, thoughts, and talks'
+description:      'My portfolio of projects, Blog, and Presentations'
 url:              https://aaronquinton.github.io
 baseurl:          #'/hydeout'
                   # the optional subpath of your site, e.g. "/blog"
