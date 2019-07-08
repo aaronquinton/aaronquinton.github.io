@@ -10,11 +10,23 @@ sidebar_link: true
 
 Hi there! My name is Aaron Quinton and I recently graduated the Masters of Data Science program at the University of British Columbia. I have experience working as an engineer in the oil and gas industry as part of the Financial Advisory team at Deloitte. I love working with numbers and strive to add value and efficiencies to day to day activities and business with the help of data. I am always eager to tackle problems, learn, and teach.  
 
+<div style="float: left">
+    <img style = "padding: 0 5px" src="https://raw.githubusercontent.com/aaronquinton/aaronquinton.github.io/master/_screenshots/envelope-square-solid.png" alt="Image" width="40">
+</div>
 
-<img src="https://raw.githubusercontent.com/aaronquinton/aaronquinton.github.io/master/_screenshots/envelope-square-solid.png" alt="Email" width="30"/> aaron.wquinton@gmail.com  
-<img src="https://raw.githubusercontent.com/aaronquinton/aaronquinton.github.io/master/_screenshots/github-logo.png" alt="Github" width="30"/> [@aaronquinton](https://github.com/aaronquinton)  
-<img src="https://raw.githubusercontent.com/aaronquinton/aaronquinton.github.io/master/_screenshots/linkedin-brands.png" alt="LinkedIn" width="30"/> [Aaron Quinton](https://www.linkedin.com/in/aaron-quinton-0b4819137/)
+aaron.wquinton@gmail.com
 
+<div style="float: left">
+    <img style = "padding: 0 5px" src="https://raw.githubusercontent.com/aaronquinton/aaronquinton.github.io/master/_screenshots/github-logo.png" alt="Image" width="40">
+</div>
+
+[@aaronquinton](https://github.com/aaronquinton)
+
+<div style="float: left">
+    <img style = "padding: 0 5px" src="https://raw.githubusercontent.com/aaronquinton/aaronquinton.github.io/master/_screenshots/linkedin-brands.png" alt="Image" width="40">
+</div>
+
+[Aaron Quinton](https://www.linkedin.com/in/aaron-quinton-0b4819137/)
 
 <br>
 
