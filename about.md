@@ -10,9 +10,10 @@ sidebar_link: true
 
 Hi there! My name is Aaron Quinton and I recently graduated the Masters of Data Science program at the University of British Columbia. I have experience working as an engineer in the oil and gas industry as part of the Financial Advisory team at Deloitte. I love working with numbers and strive to add value and efficiencies to day to day activities and business with the help of data. I am always eager to tackle problems, learn, and teach.  
 
-Email | aaron.wquinton@gmail.com  
-Github | [@aaronquinton](https://github.com/aaronquinton)  
-LinkedIn | [Aaron Quinton](https://www.linkedin.com/in/aaron-quinton  -0b4819137/)
+<img src="./_screenshots/envelope-square-solid.svg" alt="Email" width="30"/> aaron.wquinton@gmail.com  
+<img src="./_screenshots/github-logo.png" alt="Github" width="30"/> [@aaronquinton](https://github.com/aaronquinton)  
+<img src="./_screenshots/linkedin-brands.svg" alt="LinkedIn" width="30"/> [Aaron Quinton](https://www.linkedin.com/in/aaron-quinton-0b4819137/)
+
 
 <br>
 
