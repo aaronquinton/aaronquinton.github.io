@@ -14,7 +14,7 @@ Hi there! My name is Aaron Quinton and I recently graduated the Masters of Data 
     <img style = "padding: 0 5px" src="https://raw.githubusercontent.com/aaronquinton/aaronquinton.github.io/master/_screenshots/envelope-square-solid.png" alt="Image" width="40">
 </div>
 
-aaron.wquinton@gmail.com
+[aaron.wquinton@gmail.com](mailto:aaron.wquinton@gmail.com)
 
 <div style="float: left">
     <img style = "padding: 0 5px" src="https://raw.githubusercontent.com/aaronquinton/aaronquinton.github.io/master/_screenshots/github-logo.png" alt="Image" width="40">
@@ -27,7 +27,7 @@ aaron.wquinton@gmail.com
 </div>
 
 [Aaron Quinton](https://www.linkedin.com/in/aaron-quinton-0b4819137/)
-
+[email us](mailto:te...@mail.com)
 <br>
 
 ## Abbreviated CV
