@@ -10,6 +10,8 @@ sidebar_link: true
 
 Hi there! My name is Aaron Quinton and I recently graduated the Masters of Data Science program at the University of British Columbia. I have experience working as an engineer in the oil and gas industry as part of the Financial Advisory team at Deloitte. I love working with numbers and strive to add value and efficiencies to day to day activities and business with the help of data. I am always eager to tackle problems, learn, and teach.  
 
+---
+
 <div style="float: left">
     <img style = "padding: 0 5px" src="https://raw.githubusercontent.com/aaronquinton/aaronquinton.github.io/master/_screenshots/envelope-square-solid.png" alt="Image" width="40">
 </div>
@@ -27,7 +29,8 @@ Hi there! My name is Aaron Quinton and I recently graduated the Masters of Data 
 </div>
 
 [Aaron Quinton](https://www.linkedin.com/in/aaron-quinton-0b4819137/)
-[email us](mailto:te...@mail.com)
+
+---
 <br>
 
 ## Abbreviated CV
