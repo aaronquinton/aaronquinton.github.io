@@ -1,18 +1,24 @@
 ---
 layout: category
-title: Learning Library
+title: Learning
 ---
 
 ## Table of Contents
-- [R](#R)
-- [Python](#python)
-- [SQL](#sql)
+- [Machine Learning](#ml)
+- [Programming](#programming)
+- [Statistics](#stat)
 
-## R <a name = "R"></a>
-
-
-## Python <a name = "python"></a>
+## Machine Learning <a name = "ml"></a>
 
 
-## SQL <a name = "sql"></a>
+## Programming <a name = "programming"></a>
+
+### Python
+
+### R
+
+### SQL
 [SQL for Data Science](https://www.coursera.org/learn/sql-for-data-science) - Coursera UC Davis
+
+
+## Statistics <a name = "stat"></a>
