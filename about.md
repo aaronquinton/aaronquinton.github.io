@@ -28,6 +28,12 @@ Hi there! My name is Aaron Quinton and I recently graduated the Masters of Data 
 
 [linkedin.com/in/aaron-quinton](https://www.linkedin.com/in/aaron-quinton)
 
+<div style="float: left">
+    <img style = "padding: 0 5px" src="https://raw.githubusercontent.com/aaronquinton/aaronquinton.github.io/master/_screenshots/resume.png" alt="Image" width="40">
+</div>
+
+[aaronquinton_resume.pdf](https://drive.google.com/file/d/1sx5N9bmrOcbbr-VvTscKJWalKhL8eMEB/view?usp=sharing)
+
 ---
 
 ## Abbreviated CV
