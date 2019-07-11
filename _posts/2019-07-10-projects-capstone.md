@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Quantifying the Responses to Open-Ended Survey Questions"
-excerpt: "Two month Capstone project in the Master of Data Science program and partnered with BC Stats"
+excerpt: "Two month Capstone project as part of the Master of Data Science program"
 categories:
   - Projects
 tags:
