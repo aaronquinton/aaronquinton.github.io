@@ -44,7 +44,7 @@ Hi there! My name is Aaron Quinton and I recently graduated the Masters of Data 
 ### Education
 
 University of British Columbia  
-- Masters of Data Science,  2018 - present
+- Masters of Data Science,  2018 - 2019
 
 University of Calgary  
 - Bsc. in Chemical Engineering, 2010 - 2015
